@@ -7,7 +7,8 @@
 
 <sup>3</sup> College of Computer and Information Science, Northeastern University, Boston, Massachusetts, USA. Email: rplatt (at) ccs (dot) neu (dot) edu
 
-![alt text](https://github.com/yayaneath/autotrans/blob/master/robot.png "Mobile Manipulator")
+### System Video
+[![Video of the system working outdoors](https://github.com/yayaneath/autotrans/blob/master/robot.png)](https://youtu.be/93nWXhaGEWA)
 
 ### Motivation
 

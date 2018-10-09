@@ -7,6 +7,10 @@
 
 <sup>3</sup> College of Computer and Information Science, Northeastern University, Boston, Massachusetts, USA. Email: rplatt (at) ccs (dot) neu (dot) edu
 
+###### Reference
+Zapata-Impata, B.S., Shah, V., Singh, H., Platt, R. *AutOTranS: an Autonomous Open World Transportation System*. arXiv https://arxiv.org/abs/1810.03400
+
+
 ### System Video
 [![Video of the system working outdoors](https://github.com/yayaneath/autotrans/blob/master/robot.png)](https://youtu.be/93nWXhaGEWA)
 

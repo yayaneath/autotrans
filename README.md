@@ -10,6 +10,10 @@
 ###### Reference
 Zapata-Impata, B.S., Shah, V., Singh, H., Platt, R. *AutOTranS: an Autonomous Open World Transportation System*. arXiv https://arxiv.org/abs/1810.03400
 
+###### AutOTranS in the media
+- IEEE Spectrum Video Friday (October 12th, 2018): https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-boston-dynamics-spot-goes-to-work-and-more
+- ClearPath Robotics Blog (November 28th, 2018): https://www.clearpathrobotics.com/blog/2018/11/warthog-ugv-mobile-manipulation-research-autotrans/
+
 
 ### System Video
 [![Video of the system working outdoors](https://github.com/yayaneath/autotrans/blob/master/robot.png)](https://youtu.be/93nWXhaGEWA)
